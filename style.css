@@ -1,0 +1,12 @@
+.centered-txt1{
+    position: absolute;
+  top: 1500px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered-txt2{
+    position: absolute;
+  top: 1600px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
